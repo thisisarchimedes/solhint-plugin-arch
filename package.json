@@ -1,0 +1,19 @@
+{
+  "name": "solhint-plugin-arch",
+  "version": "1.0.0",
+  "description": "Custom solhint rules for Archimedes contracts",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thisisarchimedes/solhint-plugin-arch.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thisisarchimedes/solhint-plugin-arch/issues"
+  },
+  "homepage": "https://github.com/thisisarchimedes/solhint-plugin-arch#readme"
+}
